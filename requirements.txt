@@ -1,7 +1,10 @@
 streamlit
 pickl
 pickleshare
-nltk
 scikit-learn
 pandas
 numpy
+tensorflow
+opencv-python
+os
+matplotlib
