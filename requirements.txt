@@ -1,5 +1,8 @@
 streamlit
 pickl
 pickleshare
-tensorflow
+nltk
+scikit-learn
+pandas
+numpy
 protobuf==3.20.1
