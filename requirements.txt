@@ -6,5 +6,4 @@ pandas
 numpy
 tensorflow
 opencv-python
-os
 matplotlib
