@@ -1,9 +1,6 @@
 import streamlit as st
-from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img
 from tensorflow.keras.preprocessing.image import img_to_array
-import os
-import cv2
 import pickle
 import numpy as np
 
